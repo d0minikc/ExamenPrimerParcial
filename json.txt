@@ -1,0 +1,20 @@
+{
+  "titulo":"libro infantil",
+  "descripcion":"hola"
+}
+
+
+
+{
+  "titulo":"libro3",
+  "descripcion":"hola",
+  "autores": [
+    {
+      "id": "4",
+      "nombre": "Autor 3",
+      "fecha_nacimiento": "1980-01-01",
+      "telefono": "123456789",
+      "activo": true
+    }  
+  ]
+}
